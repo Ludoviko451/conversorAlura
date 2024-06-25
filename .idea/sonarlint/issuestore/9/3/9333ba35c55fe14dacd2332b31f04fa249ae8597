@@ -1,0 +1,24 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ı©˜¹8½”Š…2J$3fdb2b67-07ba-4ed1-bc47-3a97e2dad9b6
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(óöÜ§ıÿÿÿÿ8¾”Š…2J$6fc780ea-3e61-4664-a17f-5902fc8af089
+
+java:S1854"<Remove this useless assignment to local variable "currency".(ãâÉ8¸±‚Š…2J$c3e4b9b6-795e-4fd1-b17d-01368ed940be
+„
+java:S1854"<Remove this useless assignment to local variable "currency".(¥Í÷ÿÿÿÿÿ8¸±‚Š…2J$30532b47-a8d0-476d-a6c4-e59b332f3293
+„
+java:S1854"<Remove this useless assignment to local variable "currency".(ıèÜ‹úÿÿÿÿ8¸±‚Š…2J$eec50701-896d-41ab-987b-76f071e45a50
+„
+java:S1854!"<Remove this useless assignment to local variable "currency".(œôÈ”ıÿÿÿÿ8¸±‚Š…2J$b7861e3a-3d10-40fb-94da-838a0f4f6f66
+m	java:S106"+Replace this use of System.out by a logger.(Â®Î‹8º±‚Š…2J$64aace38-2a33-4f1e-b0d2-af36d72aee9c
+m	java:S106	"+Replace this use of System.out by a logger.(¨ü„ó8º±‚Š…2J$b1caa628-6027-46d3-980a-ffd8c8315d46
+m	java:S106"+Replace this use of System.out by a logger.(’ûÇã8º±‚Š…2J$5b7e1ae8-0838-4054-a87f-451972deb9c4
+m	java:S106"+Replace this use of System.out by a logger.(şÊğş8º±‚Š…2J$e7a4d320-35c5-4ba9-b7f8-789951d8c6c7
+m	java:S106"+Replace this use of System.out by a logger.(š”¹Ï8º±‚Š…2J$d3bb61ce-cbbf-49c0-84fe-183018ec5217
+u
+java:S1481"-Remove this unused "currency" local variable.(ä˜›üÿÿÿÿ8»±‚Š…2J$8f28d746-4c31-4c7f-801d-7eaca1650127
+m	java:S106"+Replace this use of System.out by a logger.(› —©8¼±‚Š…2J$f30caa65-8063-482a-96fc-d11da4f35028
+r	java:S106"+Replace this use of System.out by a logger.(’Ù¬Òşÿÿÿÿ8¼±‚Š…2J$98873719-7f90-4dc7-a0e5-1561bc3a7024
+r	java:S106"+Replace this use of System.out by a logger.(ƒ£üÏşÿÿÿÿ8½±‚Š…2J$110b1a2c-d6bd-44e9-938c-757782661323
+m	java:S106 "+Replace this use of System.out by a logger.(£¬ï¬8½±‚Š…2J$d465b3d5-7f76-4f79-9918-23e866e117a7
+m	java:S106$"+Replace this use of System.out by a logger.(‹À¡‰8½±‚Š…2J$295412bd-b31c-4929-9ae9-3731e4ff9bc1

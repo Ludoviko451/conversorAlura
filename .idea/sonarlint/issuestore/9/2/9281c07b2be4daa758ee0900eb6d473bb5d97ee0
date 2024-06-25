@@ -1,0 +1,22 @@
+
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8âäÃ‹…2J$70cd5259-e7ed-4c2e-ab6e-5a7f17058143
+}
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8û’º‹…2J$8482147a-ed2f-460a-ad1a-cde25a80fb6f
+}
+java:S1141/"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ü’º‹…2J$645e93e8-ace0-4c10-8727-07c2551279cf
+}
+java:S1141A"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ü’º‹…2J$be9add28-c0e0-4656-b375-5852f1bcfc18
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘8Þ”º‹…2J$132a6377-f050-4b5d-820d-b11dca650192
+r	java:S106"+Replace this use of System.out by a logger.(²—— üÿÿÿÿ8á”º‹…2J$48998dc5-cb23-4752-9ad9-2128703d447a
+m	java:S106"+Replace this use of System.out by a logger.(êª¾ö8á”º‹…2J$6c463cc5-591a-4103-acff-ac9f30d3d8c6
+r	java:S106"+Replace this use of System.out by a logger.(²—— üÿÿÿÿ8á”º‹…2J$d0d06623-59ac-4617-9e2b-5c7242638c4c
+r	java:S106"+Replace this use of System.out by a logger.(´Œþ¦ûÿÿÿÿ8â”º‹…2J$ece909fe-4cea-409f-ad27-770d1f919c08
+r	java:S106"+Replace this use of System.out by a logger.(Åú´»ÿÿÿÿÿ8â”º‹…2J$3e393369-0c48-4000-9f95-b13ac39d1941
+r	java:S106""+Replace this use of System.out by a logger.(ÃÁ×¬øÿÿÿÿ8ã”º‹…2J$c7596c13-9101-4a66-88c8-1445bf606916
+r	java:S106+"+Replace this use of System.out by a logger.(†›ïòùÿÿÿÿ8ã”º‹…2J$35d5a247-11c1-46cf-a697-0622275b0a09
+r	java:S1062"+Replace this use of System.out by a logger.(Åú´»ÿÿÿÿÿ8ã”º‹…2J$6b4aa7b8-ebdd-4a57-b306-de95a679f9e0
+r	java:S1068"+Replace this use of System.out by a logger.(ÃÁ×¬øÿÿÿÿ8ä”º‹…2J$9863f802-f9ac-4791-9ed8-cb564638e525
+m	java:S106="+Replace this use of System.out by a logger.(ê¹¢®8ŽæÃ‹…2J$2c5d3215-8b79-4817-8974-e4756de413bf
+m	java:S106D"+Replace this use of System.out by a logger.(äœ¨Ú8¼­Å‹…2J$4231ec9c-f9ab-416d-b036-09161094c019
+L	java:S106L"+Replace this use of System.out by a logger.(Æ£ªäûÿÿÿÿ8õ¢Ç‹…2

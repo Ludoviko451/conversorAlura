@@ -1,0 +1,10 @@
+
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(é¥ğ¾ÿÿÿÿÿ8Û¨€‹…2J$cc661912-e9dd-4d41-ad4c-cb805d5d482e
+‹
+java:S2095"HUse try-with-resources or close this "HttpClient" in a "finally" clause.(¯õö´8é¨€‹…2J$ac5eb780-1440-41f9-8db3-2d40e68cf2c6
+|
+java:S1118":Add a private constructor to hide the implicit public one.(ö…“<8òïƒ‹…2J$1849d76a-71d7-4f1c-b8c4-e109469270e9
+¡
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶È8í¨€‹…2J$ea91ebd2-0261-4c1f-950b-48ff9af9b5c4
+l	java:S106#"+Replace this use of System.out by a logger.(ä¥
+8ğ¨€‹…2J$9e6c6e8c-b1e4-4e6f-8831-01ac9944b653
